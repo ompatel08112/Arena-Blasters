@@ -1,4 +1,4 @@
-# Arena Shooter
+# Arena Blasters
 
 A top-down twin-stick shooter I built in C# using MonoGame for my ICS4U1 final project. Fight a simple AI enemy on your own, or plug in a few controllers and play against friends.
 
